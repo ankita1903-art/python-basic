@@ -1,10 +1,26 @@
 # python-basic
-practice this language and develop my skill.
-It is easy to Read and Write.
-Python’s code looks almost like plain English, making it easier to understand.
-No Complex Syntax.
-Python does not require braces {} or semicolons ;, reducing confusion for beginners.
-It is a versatile Language
-Python is used in: Web development,Data science,Artificial intelligence & machine learning,Automation and scripting,Game development.
-Python runs code line by line, which helps beginners easily find and fix errors.
-From this i learned a lot of things and want to continue it.Basic calculation is also easily done here.
+Project Overview
+
+The Personal Introduction Program is a beginner-friendly Python project that displays a short introduction using basic personal details such as name, age, and interests. This project is designed to help understand fundamental Python concepts in a simple and practical way.
+Objectives:
+Learn how to declare and use variables.
+Understand correct usage of the print() function.
+Practice basic Python syntax.
+Display formatted output to the user.
+
+Technologies Used
+Programming Language: Python
+Tools: Any Python IDE or command-line interface
+
+Program Description
+The program stores personal details in variables and prints a friendly introduction message. It executes sequentially without using loops, conditionals, or advanced data structures, making it ideal for beginners.
+
+How to Run the Program:
+Python is installed.
+Open a terminal or command prompt.
+Navigate to the project folder.
+Run the program using: python personal_intro.py
+Learning Outcomes:
+Gained confidence in writing basic Python programs.
+Learned to fix common syntax errors.
+Improved understanding of variables and output formatting.
